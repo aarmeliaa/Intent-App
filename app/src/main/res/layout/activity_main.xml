@@ -18,4 +18,19 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="To second activity"/>
+    <Button
+        android:id="@+id/btn_send_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Send Message"/>
+    <Button
+        android:id="@+id/btn_dial"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Dial"/>
+    <Button
+        android:id="@+id/btn_open_link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open Link"/>
 </LinearLayout>
